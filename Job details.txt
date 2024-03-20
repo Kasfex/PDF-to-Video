@@ -1,0 +1,7 @@
+
+Python Script to render pdfs as an MP4 video 
+
+-Using Amazons TTS  Emma -  British voice.
+-Fade transitions between every pdf page - done
+-A background audio track  
+-9:16 1080p vertical video  - done
