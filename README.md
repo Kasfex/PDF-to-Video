@@ -1,11 +1,5 @@
 # Project: pdf_to_mp4
 
-### Platform: Freelance
-
-### Client: Thomas
-
-
-
 
 Python Script to render pdfs as an MP4 video 
 
